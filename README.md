@@ -1,10 +1,21 @@
-# Leon Template Project
+# Leon Template
 
-This is my HTML & CSS project.
+A modern and responsive website template built using HTML and CSS.
 
-## Features
+## 🚀 Features
 - Responsive design
-- Clean UI
+- Clean and minimal UI
+- Simple and elegant layout
 
-## Author
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+
+## 📌 Note
+This project is based on a design from GraphBerry and implemented for learning purposes.
+
+## 🎨 Design Credit
+GraphBerry
+
+## 👨‍💻 Developed by
 Ahmad
